@@ -27,7 +27,8 @@ bio: My research interests include Computer vision, explainable AI, LLM in healt
 interests:
   - Artificial Intelligence
   - Computational Vision
-  - Information Retrieval
+  - Human-Centered Trustworthy AI
+  - Human-Centered Interactive Explainable Algorithms
 
 education:
   courses:
@@ -46,13 +47,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'ryu11@CougarNet.UH.EDU'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
     link: https://github.com/Kunjoe7

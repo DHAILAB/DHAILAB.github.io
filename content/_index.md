@@ -8,18 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Smart healthcare
-         Group
+        DHAI Lab
       image:
-        filename: welcome.jpg
+        filename: YRH_gnn.png
       text: |
         <br>
         
-        The **Smart healthcare Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2023.
+        The Wang Research Group (Data-Driven & Human-Centered AI in Healthcare and Medical Research [DHAI] Lab) works on developing and applying Machine Learning, Data Mining and Statistical methods on healthcare and (bio)medical data. Inspired by the human factors approach, DHAI lab also designs and develops Human-Centered Artificial Intelligence algorithms and tools for users to integrate, visualize, analyze, and interpret health data in order to improve the interoperability and accessibility of AI-assisted healthcare decision support. 
   
   - block: collection
     content:
-      title: Latest News
+      title: Latest Project
       subtitle:
       text:
       count: 5
@@ -45,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: welcome.png
           filters:
             brightness: 1
           parallax: false
@@ -58,13 +57,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Paper
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'paper-conference'
     design:
       view: citation
       columns: '1'

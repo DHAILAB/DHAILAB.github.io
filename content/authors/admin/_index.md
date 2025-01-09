@@ -22,8 +22,9 @@ bio: My research interests are developing and applying Machine Learning, Data Mi
 
 interests:
   - Artificial Intelligence
-  - Data Mining
-  - HCI
+  - interactive eXplainable Artificial Intelligence (iXAI) 
+  - Health/Biomedical Informatics
+  - Human-Centered Trustworthy AI
 
 education:
   courses:
