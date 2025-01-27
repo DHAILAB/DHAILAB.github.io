@@ -28,7 +28,7 @@ publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
 publication: "Submitted to Journal of the American Medical Informatics Association (JAMIA)"
-publication_short: In *embc*
+
 
 abstract: This paper uses SHAP and counterfactual explanation to analyze dementia risk in diabetic and non-diabetic populations..
 

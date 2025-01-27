@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society*
-publication_short: In *embc*
+
 
 abstract: Being able to accurately predict the time to event of interest, commonly known as survival analysis, is extremely beneficial in healthcare for modeling disease progression, identifying prognostic factors, assessing risk of health by building survival models in health aging, precision medicine, supporting clinical decision making. In order to be usable by healthcare providers, survival analysis models need to be accurate, interpretable, and trustable. Efficient interaction between human stakeholders (e.g., developers, domain experts and/or end-users) and clear model interpretation not only improve the model performance but also enhance human trust. The primary goal of this paper is to develop algorithm and method that support implementation of trustworthy and time-efficient data-driven decision making for prevention and early intervention. Our experimental results on one public cancer datasets demonstrate the algorithm efficiency for predicting survival time of cancer patients.
 

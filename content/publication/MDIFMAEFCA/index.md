@@ -32,7 +32,7 @@ publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
 publication: "Submitted to Canadian Medical Association Journal (CMJA)"
-publication_short: In *embc*
+
 
 abstract: In recent decades, healthcare systems have increasingly prioritized the prevention of adverse events, yet cognitive safety has received comparatively less attention. Cognitive assessment games hold great promise as sensitive, user-friendly tools for repeated evaluations, offering distinct advantages over traditional paper-and-pencil tests. These games, which have demonstrated psychometric validity in measuring targeted cognitive functions such as working memory and executive functioning, now require application and rigorous validation in clinical settings. In this paper, we examine some of the cognitive harms encountered in healthcare and present novel findings showing that cognitive assessment tools designed to evaluate various aspects of fluid intelligence display the expected performance changes across the lifespan.
 

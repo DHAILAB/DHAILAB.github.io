@@ -28,7 +28,7 @@ publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
 publication: "ACM Computing Surveys"
-publication_short: In *embc*
+
 
 abstract: "This survey explores countermeasures for data exfiltration defense with human involvement."
 tags: ["Cybersecurity", "Data Exfiltration"]

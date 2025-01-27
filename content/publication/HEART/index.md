@@ -21,7 +21,7 @@ publishDate: '2024-12-17T00:00:00Z'
 # Enter a publication type from the CSL standard.
 publication_types: ['journal-article']
 publication: "Submitted to Journal of Biomedical and Health Informatics (JBHI)"
-publication_short: In *embc*
+
 
 abstract: "This paper introduces HEART, a tool for prediction modeling and behavioral risk factor analysis."
 tags: ["HEART", "Prediction Modeling", "Healthcare"]
