@@ -30,7 +30,7 @@ links:
   - name: Platform
     url: 'https://acxee86zot56svpkzzvc4r.streamlit.app/'
   - name: GitHub Repository
-    url: 'https://github.com/Kunjoe7?tab=repositories'
+    url: '[https://github.com/Kunjoe7](https://github.com/Kunjoe7/texgisa-survival)?tab=repositories'
 ---
 
 ## Overview
