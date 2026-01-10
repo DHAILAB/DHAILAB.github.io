@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruiheng Yu 余睿恒
+title: Ruiheng Yu
 
 # Full name (for SEO)
 first_name: Ruiheng
@@ -8,13 +8,13 @@ last_name: Yu
 
 # Username (this should match the folder name)
 authors:
-  - 余睿恒
+  - Ruiheng Yu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Phd student of Biomedical Engineering
+role: PhD Student of Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ryu11@CougarNet.UH.EDU'
+    link: 'mailto:ryu11@CougarNet.UH.EDU'
   - icon: google-scholar
     icon_pack: ai
     link: 

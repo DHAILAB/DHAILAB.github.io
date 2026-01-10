@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xinyu Qin 秦兴宇
+title: Xinyu Qin
 
 # Full name (for SEO)
 first_name: Xinyu
@@ -8,13 +8,13 @@ last_name: Qin
 
 # Username (this should match the folder name)
 authors:
-  - 秦兴宇
+  - Xinyu Qin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Phd student of Biomedical Engineering
+role: PhD Student of Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -22,12 +22,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computing and programmable matter.
+bio: My research interests include Causal Inference, Survival Analysis, and Digital Twin.
 
 interests:
-  - Artificial Intelligence
-  - Computational Vision
-  - Information Retrieval
+  - Causal Inference
+  - Survival Analysis
+  - Digital Twin
 
 education:
   courses:
@@ -49,16 +49,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:xqin5@CougarNet.UH.EDU'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=k8QszCAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/Kunjoe7
+    link: https://github.com/Kingmaoqin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
