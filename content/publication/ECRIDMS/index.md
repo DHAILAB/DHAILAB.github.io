@@ -1,59 +1,30 @@
 ---
-title: "Explainable Counterfactual Reasoning in Depression Medication Selection at Multi-Levels (Personalized and Population)"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Estimating Treatment Effects for Depression in Longitudinal Therapy Switching Settings"
 authors:
   - Xinyu
-  - admin
   - Martin Katzman
+  - Alexandria Greifenberger
+  - Elssa Toumeh
+  - Sachinthya Lokuge
+  - Tia Sternat
+  - YRH
+  - admin
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2025-01-01T00:00:00Z'
+date: '2026-01-01T00:00:00Z'
 doi: ''
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2024-12-17T00:00:00Z'
+publishDate: '2026-01-01T00:00:00Z'
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['journal-article']
+publication_types: ['paper-conference']
+publication: "Manuscript submitted to the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026)"
 
-# Publication name and optional abbreviated publication name.
-publication: "Submitted to Journal of the American Medical Informatics Association (JAMIA)"
-
-
-abstract: This paper uses SHAP and counterfactual explanation to analyze dementia risk in diabetic and non-diabetic populations..
-
-# Summary. An optional shortened abstract.
-
-tags: ["Explainable AI", "Depression", "Counterfactual Reasoning"]
-
-# Display this page in the Featured widget?
+abstract: "This manuscript estimates treatment effects for depression under longitudinal therapy switching settings."
+tags: ["Depression", "Treatment Effects", "EMBC"]
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
 url_pdf: ''
-
-
+projects: []
+slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Xinyu Qin, Martin Katzman, Alexandria Greifenberger, Elssa Toumeh, Sachinthya Lokuge, Tia Sternat, Ruiheng Yu, and Lu Wang. *Estimating Treatment Effects for Depression in Longitudinal Therapy Switching Settings*. Manuscript submitted to the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026), 2026.

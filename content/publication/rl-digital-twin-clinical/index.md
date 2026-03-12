@@ -1,28 +1,25 @@
 ---
-title: 'Reinforcement Learning enhanced Online Adaptive Clinical Decision Support via Digital Twin powered Policy and Treatment Effect optimized Reward'
+title: "A Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation"
 
-# Authors
 authors:
   - Xinyu
+  - Anil K. Sood
   - YRH
+  - Sara Corvigno
+  - Elaine Stur
   - admin
 
-date: '2025-01-01T00:00:00Z'
+date: '2026-01-01T00:00:00Z'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2025-01-01T00:00:00Z'
+publishDate: '2026-01-01T00:00:00Z'
 
-# Publication type.
-publication_types: ['article']
+publication_types: ['paper-conference']
+publication: "Manuscript submitted to the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026)"
 
-# Publication name and optional abbreviated publication name.
-publication: In *arXiv preprint*
+abstract: "This manuscript presents a digital twin simulation framework for a treatment-response-optimized clinical decision support AI system."
 
-abstract: This paper presents a reinforcement learning approach enhanced with digital twin technology for online adaptive clinical decision support, optimizing treatment policies and effects.
+tags: ["Digital Twin", "Clinical Decision Support", "EMBC"]
 
-tags: []
-
-# Display this page in the Featured widget?
 featured: true
 
 url_pdf: ''
@@ -31,3 +28,5 @@ projects: []
 
 slides: ""
 ---
+
+Xinyu Qin, Anil K. Sood, Ruiheng Yu, Sara Corvigno, Elaine Stur, and Lu Wang. *A Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation*. Manuscript submitted to the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026), 2026.

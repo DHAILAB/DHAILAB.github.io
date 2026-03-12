@@ -1,56 +1,26 @@
 ---
-title: "Can Physician Expertise Improve Machine Learning Identification of Delirium?: Towards Trustworthy AI in Healthcare"
+title: "Can Physician Expertise Improve Machine Learning Identification of Delirium?"
 authors:
+  - Xinyu
+  - Vicky Ye
+  - YRH
   - admin
-  - Mark Chignell
-  - Yilun Zhang
-  - Baizun Shan
-  - Chenjie Zhao
-  - Timothy Chan
-  - Saeha Shin
-  - Arjumand Siddiqi
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+date: '2026-01-01T00:00:00Z'
+doi: ''
 
-date: "2023-12-01T00:00:00Z" # Replace with publication date
-doi: 'https://dl.acm.org/doi/abs/10.1145/3582077'
+publishDate: '2026-01-01T00:00:00Z'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2024-12-17T00:00:00Z'
+publication_types: ['paper-conference']
+publication: "Manuscript submitted to the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026)"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['journal-article']
-
-# Publication name and optional abbreviated publication name.
-publication: "IEEE Journal of Biomedical Informatics"
-
-
-abstract: "This survey explores countermeasures for data exfiltration defense with human involvement."
-tags: ["Cybersecurity", "Data Exfiltration"]
-# Display this page in the Featured widget?
+abstract: "This manuscript studies whether physician expertise can improve machine learning identification of delirium."
+tags: ["Delirium", "Clinical AI", "EMBC"]
 featured: true
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
 url_pdf: ''
-
-
+projects: []
+slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Xinyu Qin, Vicky Ye, Ruiheng Yu, and Lu Wang. *Can Physician Expertise Improve Machine Learning Identification of Delirium?* Manuscript submitted to the Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026), 2026.
