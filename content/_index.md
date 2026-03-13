@@ -18,7 +18,7 @@ sections:
   
   - block: markdown
     content:
-      title: Research Projects
+      title: Research Thrusts
       subtitle: Exploring the frontiers of Human-Centered AI
       text: |
         <div class="project-carousel-container">
